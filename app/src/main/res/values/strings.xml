@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LindaTOTO</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Hospitals</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome to lindaTOTO</string>
+    <string name="mail">Email</string>
+    <string name="password">password</string>
+    <string name="login">Sign In</string>
+    <string name="swipeleft">Swipe left to Create an Account</string>
+    <string name="slogan">Young Moms Register here</string>
+    <string name="name">Your Name</string>
+    <string name="re_type_password">Retype password</string>
+
+    <string name="swipe_right_for_login">Swipe right to Login</string>
+    <string name="search">search</string>
+    <string name="name_profile">Name:</string>
+    <string name="about">About:</string>
+    <string name="age">Age:</string>
+    <string name="work_status">Work status:</string>
+    <string name="school_status">School status:</string>
+    <string name="location">Location:</string>
+    <string name="create_account">Create account</string>
+    <string name="processing">Processing</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="ok">Okay</string>
+    <string name="title_location_permission">Location Persmission Missing</string>
+    <string name="text_location_permission">Please enable access to location service to be able to access nearest Health Asiistance</string>
+    <string name="ask_for_help">Call for help!</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="title">Send your patient any message or schedule , anytime</string>
+</resources>
